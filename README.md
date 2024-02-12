@@ -1,3 +1,6 @@
+
+![Designer1](https://github.com/farhanaugustine/DeepLabCut-Analysis-Jupyter-Scripts/assets/54376988/2ecdea02-bfc7-4b64-af3c-37f534ec456f)
+
 ---
 # Analysis of Mouse Movement Data
 ---
