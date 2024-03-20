@@ -1,13 +1,13 @@
 
 ![Designer1](https://github.com/farhanaugustine/DeepLabCut-Analysis-Jupyter-Scripts/assets/54376988/2ecdea02-bfc7-4b64-af3c-37f534ec456f)
 
-# Video Tutorial and Walkthrough: https://youtu.be/K-OSWhltpY0
 
 ---
 # Analysis of Mouse Movement Data
 ---
-
-## Overview
+### Video Tutorial and Walkthrough: [Link](https://youtu.be/K-OSWhltpY0)
+----
+## **Overview**
 ### While DLCAnalyzer and DLC Helper functions are great. They fail to accommodate a vast range of behavior investigator's needs. The Jupyter script provided here is meant for post processing/analyzing DeepLabCut (DLC) CSV files. The script allows user to filter data, calculate velocities, draw Region of Interest (ROI), and more.
 This document provides a summary of a Python script designed to analyze mouse movement data. The script is structured as a Jupyter Notebook and includes various functionalities such as loading data, defining regions of interest (ROIs), and calculating distances and velocities.
 
