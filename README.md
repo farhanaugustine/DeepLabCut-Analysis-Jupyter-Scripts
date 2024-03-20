@@ -1,6 +1,8 @@
 
 ![Designer1](https://github.com/farhanaugustine/DeepLabCut-Analysis-Jupyter-Scripts/assets/54376988/2ecdea02-bfc7-4b64-af3c-37f534ec456f)
 
+# Video Tutorial and Walkthrough: https://youtu.be/K-OSWhltpY0
+
 ---
 # Analysis of Mouse Movement Data
 ---
