@@ -1,0 +1,23 @@
+abstract: "While DLCAnalyzer and DLC Helper functions are great. They fail to accommodate a vast range of behavior investigator's needs. The Jupyter script provided here is meant for post-processing/analyzing DeepLabCut (DLC) CSV files. The script allows users to filter data, calculate velocities, draw Region of Interest (ROI), and more."
+authors:
+  - family-names: Augustine
+    given-names: Farhan
+    orcid: "https://orcid.org/0000-0002-8348-6039"
+cff-version: 0.1.0
+date-released: "02-12-2024"
+identifiers:
+  - description: "This is the collection of archived snapshots of the latest release versions of DeepLabCut-Analysis-Jupyter-Scripts."
+    type: doi
+    value: 10.5281/zenodo.10866995
+  - description: "This is the archived snapshot of version 0.1.0 of Jupyter script developed for DeepLabCut CSV file analysis."
+    type: doi
+    value: 10.5281/zenodo.10866995
+keywords:
+  - DeepLabCutAnalysis
+  - AnimalBehaviorResearch
+license: 
+  - GPL-3.0
+message: "If you use this software, please cite it using these metadata."
+repository-code: "https://github.com/citation-file-format/my-research-software"
+title: "DeepLabCut-Analysis-Jupyter-Scripts"
+version: 0.1.0
