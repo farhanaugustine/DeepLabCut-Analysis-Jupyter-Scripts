@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/756171902.svg)](https://zenodo.org/doi/10.5281/zenodo.10866994)
 
 ![Designer1](https://github.com/farhanaugustine/DeepLabCut-Analysis-Jupyter-Scripts/assets/54376988/2ecdea02-bfc7-4b64-af3c-37f534ec456f)
 
